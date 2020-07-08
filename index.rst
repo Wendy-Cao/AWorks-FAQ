@@ -1,20 +1,5 @@
-.. AWorks在线文档 documentation master file, created by
-   sphinx-quickstart on Wed Jul 08 20:19:38 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+常见问题及解答（FAQ）
+======================
 
-Welcome to AWorks在线文档's documentation!
-==========================================
+遇到问题时，可以先阅读本节内容，很有可能已经有人遇到过同类问题并且提供了相应的解决方案。
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
