@@ -114,7 +114,7 @@ html_static_path = ['tempstatic']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'AWorksdoc'
 
-html_additional_pages = {"index": "topindex.html"}
+#html_additional_pages = {"index": "topindex.html"}
 
 
 # -- Options for LaTeX output ------------------------------------------------
